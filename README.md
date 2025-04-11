@@ -8,6 +8,8 @@ Deleting a local branch
 git branch -d test
 
 
+
+
 Deleting a remot branch
 
-git push origin --delete tes
+git push origin --delete test
